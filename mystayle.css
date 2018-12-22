@@ -1,0 +1,175 @@
+/*Remove Default Style*/
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+/* Body style*/
+body {
+    font-size: 16px;
+    background: #eceff4;
+}
+
+/* btn style*/
+.btn {
+    background: #44669a;
+    color: #fff;
+}
+
+/* header area*/
+
+.header {
+    text-align: center;
+}
+/* nav area*/
+nav {
+    padding: 30px;
+    text-align: center;
+    background: #243042;
+}
+
+
+nav ul li {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 30px;
+}
+
+nav ul li a {
+    color: #fff;
+    background: #44669a;
+    padding: 10px 25px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #fff;
+}
+
+.hero {
+    background: url(image/bg.jpg) no-repeat;
+    height: 600px;
+    background-position: center center;
+    text-align: center;
+}
+
+.hero h1 {
+    color: #fff;
+    font-size: 60px;
+    padding-top: 220px;
+}
+
+.hero p {
+    font-size: 20px;
+    color: #fff;
+    margin-top: 20px;
+}
+
+.service {
+    margin-top: 30px;
+}
+
+
+.call {
+    padding: 30px 0px;
+    text-align: center;
+    font-size: 30px;
+    background: #b4c1d6;
+}
+
+
+.social {
+    list-style: none;
+    float: right;
+}
+
+.social li {
+    display: inline-block;
+    margin-left: auto;
+    font-size: 20px;
+    padding: 0px 20px;
+
+}
+
+footer .paragraph {
+    clear: both;
+    color: #fff;
+}
+
+.service h4 {
+    padding: 10px 0px;
+}
+
+footer {
+    background: #000;
+    padding: 30px 0px 20px 0px;
+}
+
+
+.page-header {
+    background: #fff;
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.page-header h2 {
+    margin-bottom: 20px;
+    font-size: 45px;
+    color: #44669a;
+}
+
+.page-header h4 {
+    color: #44669a;
+}
+
+
+.resturent h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    color: #44669a;
+}
+
+.special {
+    background: #44669a;
+    padding: 30px 0px;
+    color: #fff;
+    margin-top: 40px;
+}
+
+.special .btn {
+    background: #0d336e;
+}
+
+.menu-area {
+    padding: 50px 0px;
+}
+
+.menu-area  h3 {
+    color: #44669a;
+}
+
+.contract-area h3 {
+    color: #44669a;
+}
+
+.menu-area table {
+    border:1px solid #dee2e6;
+}
+
+.contract-area {
+    padding: 50px;
+}
+
+.contract-area  .btn {
+ margin-top: 30px;
+}
+
+.contact-info, .opening {
+    margin-top: 50px;
+   
+}
+
+a:hover {
+    color: #fff;
+}
